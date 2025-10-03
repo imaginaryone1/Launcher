@@ -1,0 +1,8 @@
+REG_NAME = "reg_name"
+REG_LAST = "reg_last"
+REG_PHONE = "reg_phone"
+CHOOSING_SERVICE = "choosing_service"
+CHOOSING_TIME = "choosing_time"
+CHOOSING_CATCH = "choosing_catch"
+OFFER_ADD_CATCH = "offer_add_catch"
+MY_RECORDS = "my_records"
